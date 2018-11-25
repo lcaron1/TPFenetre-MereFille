@@ -28,10 +28,8 @@ Elle possèdera les composants graphiques suivants:
 2. -Bouton Close() : Ferme la fenêtre.
 3. -Bouton show() : Affichage de la fenêtre.
 4. -Bouton Hide() : Cacher la fenêtre.
-- TestBox
-- Label
-- ListBox
-- ComboBox : Recupère le nom des fenêtre crée.
+- ListBox :  Recupère le nom des fenêtres crée.
+
 
 
 ![CaptureMere.png](http://image.noelshack.com/fichiers/2018/47/7/1543155640-capturemere.png)
