@@ -23,13 +23,13 @@ le développement  tourne autour de 2 grandes étapes
 
 fenêtre permettant la gestion de la fenêtre fille.
 Elle possèdera les composants graphiques suivants:
--Bouton
--TestBox
--Label
--ListBox
--ComboBox
+- Bouton
+- TestBox
+- Label
+- ListBox
+- ComboBox
 
-![acteurFluxInscription.png](http://image.noelshack.com/fichiers/2018/47/7/1543155640-capturemere.png)
+![CaptureMere.png](http://image.noelshack.com/fichiers/2018/47/7/1543155640-capturemere.png)
 
 ## Fenêtre secondaire (Fille) ##
 
@@ -38,9 +38,9 @@ le joueur possèdera les fonctionnalités suivantes.
 
 les classes développées.
 
-![diagrammeClassePersonnage.png](http://image.noelshack.com/fichiers/2018/37/3/1536762094-diagrammeclassepersonnage.png)
+![CaptureFille.png](http://image.noelshack.com/fichiers/2018/47/7/1543155954-capturefille.png)
 
 ## Sauvegarde du contexte ##
 
 La sauvegarde du contexte se fera dans la base de données.
-![mcdSauvegarde.png](http://image.noelshack.com/fichiers/2018/37/3/1536762097-mcdsauvegarde.png
+![Final.png](http://image.noelshack.com/fichiers/2018/47/7/1543155963-capturefinal.png)
