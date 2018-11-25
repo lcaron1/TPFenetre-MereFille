@@ -33,14 +33,9 @@ Elle possèdera les composants graphiques suivants:
 
 ## Fenêtre secondaire (Fille) ##
 
-le joueur possèdera les fonctionnalités suivantes.
-![useCasePersonnage.png](https://image.noelshack.com/fichiers/2018/37/3/1536762099-usecasepersonnage.png)
-
 les classes développées.
 
 ![CaptureFille.png](http://image.noelshack.com/fichiers/2018/47/7/1543155954-capturefille.png)
 
-## Sauvegarde du contexte ##
-
-La sauvegarde du contexte se fera dans la base de données.
+## Rendu Final ##
 ![Final.png](http://image.noelshack.com/fichiers/2018/47/7/1543155963-capturefinal.png)
