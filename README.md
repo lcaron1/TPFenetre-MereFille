@@ -24,10 +24,15 @@ le développement  tourne autour de 2 grandes étapes
 fenêtre permettant la gestion de la fenêtre fille.
 Elle possèdera les composants graphiques suivants:
 - Bouton
+1. -Bouton New() : Création d'une nouvelle fenêtre.
+2. -Bouton Close() : Ferme la fenêtre.
+3. -Bouton show() : Affichage de la fenêtre.
+4. -Bouton Hide() : Cacher la fenêtre.
 - TestBox
 - Label
 - ListBox
-- ComboBox
+- ComboBox : Recupère le nom des fenêtre crée.
+
 
 ![CaptureMere.png](http://image.noelshack.com/fichiers/2018/47/7/1543155640-capturemere.png)
 
