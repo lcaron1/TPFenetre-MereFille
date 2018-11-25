@@ -36,7 +36,14 @@ Elle possèdera les composants graphiques suivants:
 
 ## Fenêtre secondaire (Fille) ##
 
-les classes développées.
+Elle possèdera les composants graphiques suivants:
+- Label : je change de nom.
+- TextBox : Entrer le nom de la fenêtre.
+- Bouton
+1. -Bouton Changer() : Changer le nom de la fenêtre.
+2. -Bouton MaMere() : Affiche la mère de la fenêtre.
+
+
 
 ![CaptureFille.png](http://image.noelshack.com/fichiers/2018/47/7/1543155954-capturefille.png)
 
